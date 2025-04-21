@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debasmitadey9 (Debasmita Dey)
-- 👀 I’m interested in IoT Security, AI/ML concepts, and mad about RL
+- 👀 I’m interested in IoT Security, AI/ML concepts, and RL (mad about this one!)
 - 🌱 I’m currently a research scholar at IIEST Shibpur
 
 <!---
