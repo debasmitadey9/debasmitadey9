@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debasmitadey9 (Debasmita Dey)
+- 👋 Hi, I’m @researcher9
 - 👀 I’m interested in IoT Security, AI/ML concepts, and RL (mad about this one!)
 - 🌱 I’m currently an Assistant Professor at JISIASR at the Centre for Data Science
 
